@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Configuration",
+    "\\Controllers",
+    "\\Data",
+    "\\Migrations",
+    "\\Models",
+    "\\Models\\DTOs",
+    "\\Models\\DTOs\\Requests",
+    "\\Models\\DTOs\\Responses"
+  ],
+  "SelectedNode": "\\Models\\DTOs\\Requests\\UserLoginRequest.cs",
+  "PreviewInSolutionExplorer": false
+}
